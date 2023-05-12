@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="lets_go">Let\'s go!</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="no_acc">Don\'t have an account?</string>
+    <string name="create_acc">Create account</string>
+    <string name="back">Back</string>
+    <string name="join_us">Join us!</string>
+    <string name="big_create_acc">CREATE ACCOUNT</string>
+    <string name="nickname">NickName</string>
+    <string name="edit_profile">Edit profile ></string>
+</resources>

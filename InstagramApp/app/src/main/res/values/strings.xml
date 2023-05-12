@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InstagramApp</string>
+    <string name="Nickname_">Nickname_</string>
+    <string name="Lorem">\"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur \"</string>
+    <string name="urStory">\" Your story\"</string>
+    <string name="underStories">nickname</string>
+    <string name="Publication">Публикации</string>
+    <string name="Subscribers">Подписчики</string>
+    <string name="Subscribes">Подписки</string>
+    <string name="BioName">_Bio_Name_</string>
+    <string name="BioInfo">Some Bio Info, Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur</string>
+    <string name="Change">Изменить</string>
+    <string name="SendProfile">Поделиться профилем</string>
+    <string name="Actual">Actual</string>
+    <string name="Add">Добавить</string>
+    <string name="plus">+</string>
+    <string name="Search">Поиск</string>
+</resources>
